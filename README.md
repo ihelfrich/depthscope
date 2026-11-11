@@ -1,5 +1,7 @@
 # DepthScope
 
+> **Moved.** DepthScope is now the Depth tool in [Scope](https://github.com/ihelfrich/scope) and lives at https://ihelfrich.github.io/scope/depth/. This repository is kept so old links redirect; development continues in `scope/depth/`.
+
 Drop a flat photo and watch a neural network infer its depth and pop it into an interactive 3D scene you can orbit, light, and record. The model runs on your own GPU through WebGPU. Your photo is never uploaded, because there is no server doing the work.
 
 **Live:** https://ihelfrich.github.io/depthscope
